@@ -16,7 +16,7 @@ public class GitApplication {
         System.out.println("44444444444333333333");
         System.out.println("33333333333444444444");
         System.out.println("444444444445555555555");
-        System.out.println(1240);
+        System.out.println("1240111111");
     }
 
 }
